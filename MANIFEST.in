@@ -1,0 +1,2 @@
+recursive-include api_key_detector *
+recursive-exclude api_key_detector/test_results *
