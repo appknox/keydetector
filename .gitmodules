@@ -1,0 +1,4 @@
+[submodule "api_key_detector"]
+	path = api_key_detector
+	url = https://github.com/appknox/api_key_detector
+	branch = appknox
