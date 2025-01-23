@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 	description = fh.read()
 REQUIREMENTS = [i.strip() for i in open("api_key_detector/requirements.txt").readlines()]
 
-__VERSION__ = "0.0.2"
+__VERSION__ = "0.0.3"
 
 setup(
 	name="ak-keydetector",
